@@ -55,8 +55,7 @@ function Dashboard() {
                   <Col md="8" xs="7">
                     <div className="numbers">
                       <p className="card-category">ALUMNO 1</p>
-                      
-                      <CardTitle tag="p">Alejandro Daniel López Orona</CardTitle>
+                      <CardTitle tag="p">Daniel</CardTitle>
                       <p />
                     </div>
                   </Col>
