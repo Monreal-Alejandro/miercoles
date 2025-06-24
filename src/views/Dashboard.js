@@ -55,7 +55,7 @@ function Dashboard() {
                   <Col md="8" xs="7">
                     <div className="numbers">
                       <p className="card-category">ALUMNO 1</p>
-                      <CardTitle tag="p">DANIEL</CardTitle>
+                      <CardTitle tag="p">ALEJANDRO MONREAL</CardTitle>
                       <p />
                     </div>
                   </Col>
